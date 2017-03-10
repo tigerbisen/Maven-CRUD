@@ -1,0 +1,4 @@
+crud\crud\Main.class
+crud\crud\StudentController.class
+crud\crud\StudentRepository.class
+crud\crud\Student.class
